@@ -28,5 +28,8 @@
         
         {"appName":"追书神器@Suwen","appPackageName":"com.ushaqi.zhuishushenqi","compFromClassName":"com.ushaqi.zhuishushenqi.ui.SplashActivity","compFromPackageName":"com.ushaqi.zhuishushenqi","compToClassName":"com.ushaqi.zhuishushenqi.ui.home.HomeActivity","compToPackageName":"com.ushaqi.zhuishushenqi"},
         
-        {"appName":"腾讯视频@彼岸—群纪委书记","appPackageName":"com.tencent.qqlive","compFromClassName":"com.tencent.qqlive.ona.activity.WelcomeActivity","compFromPackageName":"com.tencent.qqlive","compToClassName":"com.tencent.qqlive.ona.activity.HomeActivity","compToPackageName":"com.tencent.qqlive"}
+        {"appName":"腾讯视频@彼岸—群纪委书记","appPackageName":"com.tencent.qqlive","compFromClassName":"com.tencent.qqlive.ona.activity.WelcomeActivity","compFromPackageName":"com.tencent.qqlive","compToClassName":"com.tencent.qqlive.ona.activity.HomeActivity","compToPackageName":"com.tencent.qqlive"},
+        
+        {"appName":"浙江移动手机营业厅@猛将","appPackageName":"com.example.businesshall","compFromClassName":"com.businesshall.activity.NewLogoActivity","compFromPackageName":"com.example.businesshall","compToClassName":"com.businesshall.enterance.NewMainActivity","compToPackageName":"com.example.businesshall"}"}
+
 ]
