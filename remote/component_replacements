@@ -24,5 +24,7 @@
             "compFromPackageName":"com.sina.weibo",
             "compToClassName":"com.sina.weibo.MainTabActivity",
             "compToPackageName":"com.sina.weibo"
-        }
+        },
+        
+        {"appName":"追书神器@Suwen","appPackageName":"com.ushaqi.zhuishushenqi","compFromClassName":"com.ushaqi.zhuishushenqi.ui.SplashActivity","compFromPackageName":"com.ushaqi.zhuishushenqi","compToClassName":"com.ushaqi.zhuishushenqi.ui.home.HomeActivity","compToPackageName":"com.ushaqi.zhuishushenqi"}
 ]
